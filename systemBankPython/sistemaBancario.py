@@ -22,7 +22,6 @@ LIMITE_SAQUES = 5
 AGENCIA = "0001"
 
 while True:
-    
     opcao = input(textwrap.dedent(menu))
 
     if opcao == 'd':
