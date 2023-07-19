@@ -1,1 +1,2 @@
-# Teste de teste
+# Mini sistema bancário Java e Python
+Refiz duas instâncias de um mini sistema bancário, um com java e suas dependências, e outro usando python. Os dois possuem a mesma funcionalidade, dando ao executar, uma interface dinâmica.
